@@ -1,2 +1,2 @@
 # Leave-Claim-Form
-I developed the program which automatically get permission if any right to leave.
+I developed the program which automatically gets permission if there is any right to leave.
